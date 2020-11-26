@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nefis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nefis\\.nuget\\packages"
+    ]
+  }
+}
